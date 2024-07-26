@@ -9,7 +9,7 @@
 // @namespace   Next
 // @updateURL   https://github.com/laoskido/userscripts/blob/master/dist/next-living.user.js
 // @connect     imgur.com
-// @source      https://github.com/phonglk/userscripts/tree/master/src/next/living
+// @source     https://github.com/laoskido/userscripts/tree/master/src/next/living
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_deleteValue
