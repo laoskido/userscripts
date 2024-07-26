@@ -7,7 +7,7 @@
 // @supportURL  https://github.com/phonglk/userscripts/pulls
 // @match       https://*.voz.vn/*
 // @namespace   Next
-// @updateURL   https://raw.githubusercontent.com/phonglk/userscripts/master/dist/next-sticker.user.js
+// @updateURL   https://github.com/laoskido/userscripts/blob/master/dist/next-sticker.user.js
 // @connect     imgur.com
 // @source      https://github.com/laoskido/userscripts/tree/master/src/next/sticker
 // @grant       GM_getValue
