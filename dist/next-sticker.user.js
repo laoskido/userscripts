@@ -9,7 +9,7 @@
 // @namespace   Next
 // @updateURL   https://raw.githubusercontent.com/phonglk/userscripts/master/dist/next-sticker.user.js
 // @connect     imgur.com
-// @source      https://github.com/phonglk/userscripts/tree/master/src/next/sticker
+// @source      https://github.com/laoskido/userscripts/tree/master/src/next/sticker
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_deleteValue
